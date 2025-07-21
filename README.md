@@ -42,14 +42,14 @@ Other bit needed :
 Kapton tape, Hot Glue, Sand Paper  
 A Soldering iron + Solder Wire 40/60 + Solder Flux + Isopropyl  
 
-The custom PCB can be ordered from a PCB fabrication manufacturer Like JLBPCB : Gerber File Zip (Use default PCB board settings. 1.6mm thickness etc. Just upload the gerber zip and order)
+The custom PCB can be ordered from a PCB fabrication manufacturer Like JLBPCB : [Gerber File Zip](https://github.com/Megazoids-Hut/Picopocket/blob/main/gerber/gerber_pcb_pcb_picopocket-v4_2024-10-24.zip) (Use default PCB board settings. 1.6mm thickness etc. Just upload the gerber zip and order)
 Design files like the STL's, gerbers, schematic, etc. can be found on the GitHub Page for this project
   
 ________________________________________________________________  
   
 # Story
 
-PicoPocket is a handheld device that works on either the Raspberry Pi Pico (RP2040) or Raspberry Pi Pico 2 (RP2350). It's based on the [Picopad schematic](https://picopad.eu/en/), and operates on the [PicoLibSDK](http://www.breatharian.eu/hw/picolibsdk/index_en.html) by Miroslav Nemecek.  
+PicoPocket is a handheld device that works on either the Raspberry Pi Pico (RP2040) or Raspberry Pi Pico 2 (RP2350). It's based on the [Picopad schematic](https://github.com/Pajenicko/Picopad/blob/main/hardware/schematics/picopad-v1.0.pdf)), and operates on the [PicoLibSDK](http://www.breatharian.eu/hw/picolibsdk/index_en.html) by Miroslav Nemecek.  
 
 Before diving in, take a look at the bill of materials and asks yourself if you really want to get involved? You need to be adept at 3d printing and finishing, and soldering 0603 sized SMD components. If all of this looks like a doddle - crack on.  
 
