@@ -6,7 +6,7 @@ A Pi Pico (RP2350 or RP2040) DIY handheld based on the open source PicoPad schem
 
 I wanted the PicoPocket project files accessable on GitHub. The project is posted on the following sites, which will have full build instructions :  
 https://www.hackster.io/megazoid/picopocket-cb00f7  
-https://www.instructables.com/Mini-ESP32-TV-remix 
+https://www.instructables.com/PicoPocket  
 
 > YouTube Demo : https://www.youtube.com/watch?v=SRJgQwf1tYU
   
