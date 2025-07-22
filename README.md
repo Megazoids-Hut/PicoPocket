@@ -2,7 +2,7 @@
 
 ![instructables1s](https://github.com/user-attachments/assets/68e71f5b-aba1-48d3-aa38-4c6065e3b26e)
 
-A Pi Pico (RP2350 or RP2040) DIY handheld based on the open source PicoPad schematic.
+PicoPocket is a Pi Pico (RP2350 or RP2040) DIY handheld based on the open source PicoPad schematic.
 
 I wanted the PicoPocket project files accessable on GitHub. The project is posted on the following sites, which will have full build instructions :  
 https://www.hackster.io/megazoid/picopocket-cb00f7  
@@ -16,7 +16,7 @@ ________________________________________________________________
 
 ![github2](https://github.com/user-attachments/assets/fc845ee8-5117-49df-b2e4-5d226432800c)
 
-
+### Parts
 1 x Waveshare 2inch LCD Display [Waveshare](https://www.waveshare.com/2inch-lcd-module.htm)  
 1 x 602550 Polymer Lithium Battery [AliExpress](https://vi.aliexpress.com/item/1005006898814536.html)  
 1 x Pi Pico RP2040 or RP2350 [AliExpress](https://vi.aliexpress.com/w/wholesale-Pi-Pico-rp2350.html)  
@@ -38,9 +38,12 @@ ________________________________________________________________
 1 x Clear Grass Trimmer Line [Amazon](https://www.amazon.co.uk/Oregon-69-482-CL-Round-Strimmer-Trimmers/dp/B07SQKP6B3/)  
 1 x Micro SD card 32gb [Amazon](https://www.amazon.com/dp/B0C1Y87VT3?th=1)  
 
-Other bit needed :  
-Kapton tape, Hot Glue, Sand Paper  
-A Soldering iron + Solder Wire 40/60 + Solder Flux + Isopropyl  
+### Hand Tools & Equipment  
+
+Soldering iron + Solder Wire 40/60 + Solder Flux + Isopropyl  
+A Hot Plate and 3d printer  
+Watch Makers Loupe or other Magnification  
+Kapton tape + Hot Glue + Sand Paper + Double Sided Tape   
 
 The custom PCB can be ordered from a PCB fabrication manufacturer Like JLBPCB : [Gerber File Zip](https://github.com/Megazoids-Hut/Picopocket/blob/main/gerber/gerber_pcb_pcb_picopocket-v4_2024-10-24.zip) (Use default PCB board settings. 1.6mm thickness etc. Just upload the gerber zip and order)
 Design files like the STL's, gerbers, schematic, etc. can be found on the GitHub Page for this project
@@ -53,4 +56,4 @@ PicoPocket is a handheld device that works on either the Raspberry Pi Pico (RP20
 
 Before diving in, take a look at the bill of materials and asks yourself if you really want to get involved? You need to be adept at 3d printing and finishing, and soldering 0603 sized SMD components. If all of this looks like a doddle - crack on.  
 
-Licensing: My PCB files and STLs are released under [The Unlicense](https://unlicense.org/). Everything else retains the licenses assigned by their creators. I take no responsibility for anything. I am not linked in any way with the open-source gaming console [Picopad.](https://picopad.eu/en/)
+<b>Licensing</b>: My PCB files and STLs are released under [The Unlicense](https://unlicense.org/). Everything else retains the licenses assigned by their creators. I take no responsibility for anything. I am not linked in any way with the open-source gaming console [Picopad.](https://picopad.eu/en/)
